@@ -1,0 +1,4 @@
+Bu klasör Minecraft sunucularınız için varsayılan kurulum dizinidir.
+Her sunucu kendi alt klasöründe oluşturulacaktır.
+
+Designed by Henzy - https://discord.gg/CBWVJC6mun

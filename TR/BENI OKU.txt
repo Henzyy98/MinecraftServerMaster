@@ -1,0 +1,47 @@
+🌟 MINECRAFT SUNUCU KURULUM ARACI 🌟
+Designed by Henzy
+Discord: https://discord.gg/CBWVJC6mun
+
+📋 KURULUM ADIMLARI:
+1. Öncelikle Java'yı yüklemeniz gerekiyor:
+   - Paper sunucusu için: Java 8 veya üzeri
+   - Arclight sunucusu için: Java 17
+
+🔽 JAVA KURULUMU:
+1. YÖNTEM - Program klasöründen kurulum:
+• 'java_setup' klasörüne gidin
+• Paper için: 'java8_setup.exe' dosyasını yönetici olarak çalıştırın
+• Arclight için: 'java17_setup.exe' dosyasını yönetici olarak çalıştırın
+
+2. YÖNTEM - İnternetten indirme:
+• Java 8: https://adoptium.net/temurin/releases/?version=8
+• Java 17: https://adoptium.net/temurin/releases/?version=17
+
+⚙️ SUNUCU KURULUMU:
+1. Programı çalıştırın
+2. Sunucu ismini girin
+3. Sunucu türünü seçin (Paper veya Arclight)
+4. Minecraft sürümünü seçin
+5. RAM miktarını belirleyin (GB cinsinden)
+6. Port numarasını girin (varsayılan: 25565)
+7. Kurulum dizinini seçin
+8. 'Sunucu Kur' butonuna tıklayın
+
+🚀 SUNUCUYU BAŞLATMA:
+1. Kurulum tamamlandıktan sonra oluşturulan klasöre gidin
+2. 'start.bat' dosyasını çalıştırın
+
+⚠️ NOTLAR:
+• İlk başlatma biraz zaman alabilir
+• Sunucuyu kapatmak için konsola 'stop' yazın
+• Sunucu ayarlarını 'server.properties' dosyasından değiştirebilirsiniz
+• Eklentileri 'plugins' klasörüne atabilirsiniz
+• Arclight sunucusuna modları 'mods' klasörüne atabilirsiniz
+
+❓ SORUN GİDERME:
+• Java hatası alıyorsanız, doğru Java sürümünün yüklü olduğundan emin olun
+• Sunucu başlamıyorsa, logs.txt dosyasını kontrol edin
+• RAM hatası alıyorsanız, daha düşük bir değer deneyin
+
+🌐 YARDIM VE DESTEK İÇİN:
+Discord: https://discord.gg/CBWVJC6mun
